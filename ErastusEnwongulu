@@ -1,32 +1,10 @@
-# 👋 Hi, I'm Enwongulu Erastus Ovye
-
-I'm a junior developer passionate about building real-world projects and learning through code.  
-I love exploring new tools, breaking problems into smaller pieces, and finding clean, creative solutions.
-
----
-
-🧠 What I'm Learning
-- Frontend: HTML, CSS, JavaScript, React  
-- Backend: Node.js, Express, Python (Flask/Django)  
-- Tools: Git, Linux, Bash, Docker (beginner level)  
-- Databases: MySQL, MongoDB  
-- Dev practices: REST APIs, version control, clean code  
-
----
-
-📚 Current Goals
-- Build 1 small project every week.  
-- Contribute to open-source beginner issues.  
-- Improve my understanding of backend systems and API security.  
-
----
-
-📫 Let's Connect
-- Email: erastusovye@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/erastus-enwongulu-4565981b4?trk=contact-info 
-- GitHub: https://github.com/ErastusEnwongulu
-
----
-
-⭐ *“Code is the language of problem-solving.”*  
-Thanks for stopping by! Check out my pinned projects below ⬇️
+ErastusEnwongulu/
+ ┣ 📁 portfolio-website/        → your personal portfolio website
+ ┣ 📁 projects/
+ ┃ ┣ 📁 weather-app/            → small frontend or full-stack project
+ ┃ ┣ 📁 todo-api/               → backend or REST API project
+ ┃ ┗ 📁 bash-scripts/           → simple automation or Linux practice
+ ┣ 📁 learning-labs/
+ ┃ ┣ 📁 python-practice/        → Jupyter notebooks, scripts
+ ┃ ┗ 📁 html-css-exercises/
+ ┗ 📄 README.md                 → your main profile README
