@@ -1,10 +1,1 @@
-ErastusEnwongulu/
- ┣ 📁 portfolio-website/        → your personal portfolio website
- ┣ 📁 projects/
- ┃ ┣ 📁 weather-app/            → small frontend or full-stack project
- ┃ ┣ 📁 todo-api/               → backend or REST API project
- ┃ ┗ 📁 bash-scripts/           → simple automation or Linux practice
- ┣ 📁 learning-labs/
- ┃ ┣ 📁 python-practice/        → Jupyter notebooks, scripts
- ┃ ┗ 📁 html-css-exercises/
- ┗ 📄 README.md                 → your main profile README
+
